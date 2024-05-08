@@ -1,7 +1,7 @@
 ### Ola! Eu sou Alyson Vinicius 👨🏽‍💻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyson-Vinicius&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Vinicius&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Vinicius&layout=compact)
 
 ##
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alyson_viny_/)
@@ -10,10 +10,19 @@
 ## Tecnologias que utilizo
 
 <div>
-  <img alt='Html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-   <img alt='CSS' src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'>
-   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-'>
-           
+  
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />   
+     <img height='38px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />  
+     <img  height='38px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+     <img height='38px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+     <img  height='38px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+     <img  height='38px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+          
+               
+     
+          
+
+                 
 
           
          
