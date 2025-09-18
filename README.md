@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alyson+Vinícius;I+study+technology+in+internet+systems+at+IFPE;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
+<div align="center">  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alyson-Vinicius&show_icons=true&icon_color=80ff1f&bg_color=282c34&title_color=80ff1f&text_color=ffffff&border_color=80ff1f&line_height=24&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Viniciu&layout=compact&show_icons=true&icon_color=80ff1f&bg_color=282c34&title_color=80ff1f&text_color=ffffff&border_color=80ff1f&line_height=24&hide=prs)
+
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alyson-Vinicius&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alyson-Vinicius&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
